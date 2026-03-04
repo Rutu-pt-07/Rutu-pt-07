@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+minds+for+machines+%F0%9F%A7%A0;Where+robotics+meets+intelligence+%F0%9F%A4%96;Making+AI+that+works+"with"+humans+%E2%9C%A8;One+neural+net+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+minds+for+machines+%F0%9F%A7%A0;Where+robotics+meets+intelligence+%F0%9F%A4%96;Making+AI+that+works+with+humans+%E2%9C%A8;One+neural+net+at+a+time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
