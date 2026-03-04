@@ -41,7 +41,7 @@ Primary application domains: **Healthcare AI** and **Autonomous Robotics**
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 My Projects
 
 ### 🏥 Healthcare Diagnostic Intelligence
 > ML/DL models for medical data analysis and intelligent diagnostic decision support
