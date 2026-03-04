@@ -20,7 +20,7 @@
 
 I'm an AI & ML researcher obsessed with one question: **what does it take for a machine to truly understand its world?**
 
-My work sits at the crossroads of **cognitive architectures, robotics, and healthcare AI** — building systems that don't just process data, but *reason*, *adapt*, and *act* in the real world. I believe the best AI doesn't replace human intelligence — it amplifies it.
+My work aims to explore the **cognitive architectures, robotics, and healthcare AI** — building systems that don't just process data, but *reason*, *adapt*, and *act* in the real world. I believe the best AI doesn't replace human intelligence — it amplifies it.
 
 > *"The goal is not to build a machine that thinks like a human. It's to build one that thinks alongside one."*
 
@@ -99,12 +99,7 @@ Developing perception pipelines that give robots spatial awareness — the abili
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rutu-pt-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutu-pt-07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
 
 <div align="center">
 
